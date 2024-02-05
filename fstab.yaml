@@ -5,3 +5,4 @@
 
 mountpoints:
   /: https://adobe.sharepoint.com/:f:/r/sites/adobecom/Shared%20Documents/gwp-playground
+  /gtbacom: https://adobe.sharepoint.com/:f:/r/sites/adobecom/Shared%20Documents/bacom/drafts/garvitj

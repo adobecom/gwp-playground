@@ -22,7 +22,7 @@
       "id": "localize",
       "title": "Localize",
       "environments": ["edit"],
-      "url": "https://main--milo--adobecom.hlx.page/tools/loc/index.html?project=gwp-playground--adobecom",
+      "url": "https://main--milo--adobecom.aem.page/tools/loc/index.html?project=gwp-playground--adobecom",
       "passReferrer": true,
       "includePaths": ["**.xlsx**"]
     },
